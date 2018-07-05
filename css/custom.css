@@ -9,3 +9,18 @@ img{
   height: 5%;
   float: right;
 }
+
+
+
+/* .jumbotron {
+
+  background-image: url("images/burger.jpg");
+} */
+
+.jumbotron{
+
+  margin-top: 20px;
+  background-image: url("../images/burger.jpg");
+  background-size: cover;
+  color: white;
+}
